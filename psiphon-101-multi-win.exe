@@ -1,0 +1,44 @@
+			<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+				<head>
+					<title>Blocked URL: dw4.uptodown.com</title>					<meta http-equiv="Pragma" content="no-cache" />
+					<meta http-equiv="Pragma-directive" content="no-cache" />
+					<meta http-equiv="cache-directive" content="no-cache" />
+					<link rel="stylesheet" href="styles/mi5.css" />
+													<link rel="stylesheet" href="styles/en.css" />
+												<script language="JavaScript">
+						<!--
+							function spywareinfo (signature) {
+								var details = window.open("spywareinfo.php?sid=" + signature,'detail','width=750,height=400,scrollbars=1,status=no,resizable');
+								details.focus();
+							}
+						//-->
+					</script>
+				</head>
+				<body>
+				<div id="mainContent">
+	<div id="mainText">
+				<img src="images/upload/CJ_CI.jpg" alt="Symantec Defense Centre" />
+		<hr noshade="noshade" size="1" style="margin-bottom: 10px;" />
+		<table>
+			<tr>
+								<td style="padding-left: 15px;">
+					<h3>Symantec Web Gateway</h3>
+					<h1>Accessing web site: dw4.uptodown.com is prohibited at this time</h1>									<p>
+										URL: dw4.uptodown.com/dwn/NRPtc3ATfgq2ZHbDVrHqZOAJrjChr2n1S_2b_oZRp3x8JMPGnrWKcPK9P6Bfud_98U218DigoG8XOb5...									</p>
+								<p class='translated'>This URL, dw4.uptodown.com, is a known adware/spyware location and violates company policy.</p>					<p class='translated'>
+						<a href="javascript:spywareinfo('805306454');">Click here </a>
+						for more information.					</p>
+														<p class='translated'>If you think this detection was in error, please										<a href="blocked.php?ip=52.30.20.246&profile=1&detection=10&url=dw4.uptodown.com&id=805306454&history=-2&u=dw4.uptodown.com%2Fdwn%2FNRPtc3ATfgq2ZHbDVrHqZOAJrjChr2n1S_2b_oZRp3x8JMPGnrWKcPK9P6Bfud_98U218DigoG8XOb5h30qnZKKY8wZfVCVDAZs9GHc9aGc6FiRUmwyBcnpUtJicmHCI%2F1ZQRbOMB_Y0juAgMirQKGgK27TB2Y2OtwXuKqi9Bo0NIUEqN3UHw1Tyu9RV5051vfmQiF4VE5rvHGZKVwAiIdsw6F5I8zmNAt0tJ5vDjkYn75taMaStMohy94wGQdaPB%2Fho56SfP6vZSoJ6GaWuBKGZxR9I3uR8LlgxHIgA4uBt6hRojTilAL32KLeLxxgxxZVyu-4YeED-BJmqXPZBhI3lR4qLLkqLWEfC7-rNmVNpg%3D%2Fpsiphon"
+											onclick="alert('Your IT department has been notified of your request.  Thank you.')">
+											click here.										</a>
+									</p>
+												</td>
+			</tr>
+		</table>
+	</div>
+	<div class="copyright">&copy; Copyright 2004-2016, Symantec Corporation. All rights reserved.</div>
+</div>
+				</body>
+			</html>
+		
